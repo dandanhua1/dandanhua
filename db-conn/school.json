@@ -1,0 +1,66 @@
+{
+    "schoolName": "1班学生成绩管理",
+    "address": "学校数据库",
+    "studentList": [
+        {
+            "student_id": 1,
+            "student_name": "abc",
+            "gender": "男",
+            "birth_date": "2005-07-06",
+            "class_name": "1班",
+            "create_time": "2026-07-06",
+            "scoreList": [
+                {
+                    "course_name": "语文",
+                    "score": 98.0,
+                    "exam_time": "2026-07-06"
+                },
+                {
+                    "course_name": "数学",
+                    "score": 95.0,
+                    "exam_time": "2026-07-06"
+                }
+            ]
+        },
+        {
+            "student_id": 2,
+            "student_name": "efg",
+            "gender": "女",
+            "birth_date": "2005-06-06",
+            "class_name": "1班",
+            "create_time": "2026-07-06",
+            "scoreList": [
+                {
+                    "course_name": "语文",
+                    "score": 94.0,
+                    "exam_time": "2026-07-06"
+                },
+                {
+                    "course_name": "数学",
+                    "score": 92.0,
+                    "exam_time": "2026-07-06"
+                }
+            ]
+        },
+        {
+            "student_id": 3,
+            "student_name": "hij",
+            "gender": "男",
+            "birth_date": "2026-05-06",
+            "class_name": "1班",
+            "create_time": "2026-07-06",
+            "scoreList": [
+                {
+                    "course_name": "语文",
+                    "score": 96.0,
+                    "exam_time": "2026-07-06"
+                },
+                {
+                    "course_name": "数学",
+                    "score": 95.0,
+                    "exam_time": "2026-07-06"
+                }
+            ]
+        }
+    ]
+}
